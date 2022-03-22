@@ -9,6 +9,6 @@ public class Post {
     public String passport;
     public String phone;
     public String subscription;
-    //public FormDate birthday;
-    public FormDate birthday = new FormDate();
+    public FormDate birthday;
+    //public FormDate birthday = new FormDate();
 }
