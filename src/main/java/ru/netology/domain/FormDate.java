@@ -1,8 +1,8 @@
 package ru.netology.domain;
 
 public class FormDate {
-    public String year;
-    public String month;
-    public String day;
+    public int year;
+    public int month;
+    public int day;
 
 }

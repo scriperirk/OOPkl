@@ -14,9 +14,9 @@ public class Main {
         post.subscription = true;
 
         post.birthday = new FormDate();
-        post.birthday.day = String.valueOf(18);
-        post.birthday.year = String.valueOf(1986);
-        post.birthday.month = String.valueOf(7);
+        post.birthday.day = 18;
+        post.birthday.year = 1986;
+        post.birthday.month = 7;
     }
 
 }
