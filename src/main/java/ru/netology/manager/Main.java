@@ -11,7 +11,7 @@ public class Main {
         post.patronymic = "Леонидович";
         post.passport = "6666 № 19639631";
         post.phone = "+7 (999)-333-66-99";
-        post.subscription = String.valueOf(true);
+        post.subscription = true;
 
         post.birthday = new FormDate();
         post.birthday.day = String.valueOf(18);
